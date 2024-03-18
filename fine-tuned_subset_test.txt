@@ -1,0 +1,884 @@
+0
+Answer the Question based on the given Context.
+Context: There is personal jurisdiction over a defendant in the state where the defendant is domiciled, or when (1) the defendant has sufficient contacts with the state, such that they have availed itself of the privileges of the state and (2) the claim arises out of the nexus of the defendant's contacts with the state.
+Ana is a lawyer who resides in Texas. While visiting Louisiana, she meets David, who runs a bike shop. Ana buys a bike from David and uses it to bike back to Texas. Immediately after Ana buys the bike, David moves to Oklahoma. Right after Ana crosses the border, the bike seat explodes, injuring Ana. Ana sues David in Louisiana. 
+Question: Is there personal jurisdiction?
+Answer: Yes.
+Explanation: There is personal jurisdiction because David has sufficient contacts with Louisiana. David moved to
+====================
+1
+Answer the Question based on the given Context.
+Context: “Material Adverse Effect” means any result, condition, event, change, development, circumstance, fact or effect that, individually or taken together with any other events, changes, developments, circumstances, facts or effects, (i) would have, or would reasonably be expected to have, a materially adverse effect on the condition (financial or otherwise), properties, assets, liabilities (contingent or otherwise), business operations or results of operations of the Company and its Subsidiaries (taken as a whole); provided, however, that none of the following, either alone or in combination, shall constitute a Material Adverse Effect or be taken into account in determining whether a Material Adverse Effect has occurred or would reasonably be expected to occur:     (a) results, conditions, events, changes, developments, circumstances, facts or effects in or with respect to the economy, credit, capital, securities or financial markets (including changes in interest rates or currency exchange rates) or political, regulatory or business conditions in the geographic markets in which the Company or any of its Subsidiaries operate or their products or services are sold, in each case, occurring after the date of this Agreement;     (b) results, conditions, events, changes, developments, circumstances, facts or effects that generally affect other participants in the Company’s or its Subsidiaries’ industry or industries, in each case, occurring after the date of this Agreement and only to the extent also occurring in the applicable geographic markets in which the Company or any of its Subsidiaries operate or where their products or services are sold;     (c) the negotiation, execution, performance, public announcement or pendency of this Agreement or the transactions contemplated hereby, or any result, condition, event, change, development, circumstance, fact or -8-      effect resulting therefrom, including any loss of employees, customers or revenue to the extent arising from the identity of Parent as the acquiror of the Company (provided, that this clause (c) shall not apply to any representation or warranty to the extent such representation or warranty addresses the consequences resulting from the execution and delivery of this Agreement, the performance of a Party’s obligations hereunder or the consummation of the transactions contemplated by this Agreement);     (d) any term, condition, obligation, requirement, limitation, prohibition, remedy, sanction or other action imposed upon Parent, the Company or any of their respective Subsidiaries in connection with effecting the expiration of any waiting period (and any extension thereof) under any Antitrust Law applicable to the consummation of the transactions contemplated by this Agreement or obtaining from a Governmental Antitrust Entity any consent, approval, permit or authorization, in each case in accordance with and to the extent contemplated by this Agreement;     (e) changes in GAAP or in any applicable Law, in each case, occurring after the date of this Agreement;     (f) any failure by the Company to meet any internal or public projections or forecasts or estimates of revenues or earnings; provided that any event, change, development, circumstance, fact or effect underlying such failure (unless otherwise excluded by the other clauses of this proviso) may be taken into account in determining whether a Material Adverse Effect has occurred or would reasonably be expected to occur;     (g) acts of war (whether or not declared), sabotage, terrorism, military or para-military actions or the escalation of any of the foregoing (other than any cyberattack targeted principally at the Company or any of its Subsidiaries), any weather event or natural disaster, or any outbreak of illness, pandemic (including COVID-19) or other public health event, in each case, occurring after the date of this Agreement, and any results, conditions, events, changes, developments, circumstances, facts or effects resulting therefrom; or     (h) any actions or non-actions (i) expressly required to be taken or expressly required to be not taken by the Company or any of its Subsidiaries pursuant to this Agreement (except for any obligation to operate in the Ordinary Course of Business), (ii) taken or not taken by the Company or any of its Subsidiaries at Parent’s written request or (iii) taken or not taken by the Company or any of its Subsidiaries to the extent such actions or non-actions are required by applicable Law;     provided further that, with respect to clauses (a), (b), (e) and (g) of this definition, such events, changes, developments, circumstances, facts or effects (as the case may be) shall be taken into account in determining whether a “Material Adverse Effect” has occurred or would reasonably be expected to occur to the extent, and only to the extent, that they disproportionately adversely affect the Company and its Subsidiaries (taken as a whole) relative to healthcare industry peer companies of the Company and its material Subsidiaries; or (ii) would, or would reasonably be expected to, prevent, materially delay or materially impair the ability of the Company or any of its Subsidiaries to consummate the transactions contemplated by this Agreement. (Pages 76-77)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Do pandemics or other public health events have to have disproportionate impact to qualify for Material Adverse Effect (MAE)?
+Option A: No
+Option B: Yes
+Answer: 
+Choice: B
+Explanation: The definition of MAE requires that the event must disproportionately adversely affect
+====================
+2
+Answer the Question based on the given Context.
+Context: The findings of the Special Master, well supported by the evidence, overcome the argument thus drawn from physical conditions.
+Question: Identify if the sentence defines a term.
+Answer: Yes
+Question: Classify if the sentence is about a fact or a conclusion.
+Answer:
+====================
+3
+Answer the Question based on the given Context.
+Context: Subject to the provisions of 11.1, Dynamic Hearing may terminate this Agreement upon three (3) months written notice to IntriCon of such termination.
+Question: Does intellectual property created by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?
+Answer: Yes
+Explanation: The clause requires a party's right to terminate the contract upon certain events.
+====================
+4
+Answer the Question based on the given Context.
+Context: 5.1      Conduct of Business Prior to the Effective Time. During the period from the date of this Agreement to the Effective Time or earlier termination of this Agreement, except as expressly contemplated or permitted by this Agreement (including as set forth in the TCF Disclosure Schedule), required by law (including the Pandemic Measures) or as consented to in writing by the other party (such consent not to be unreasonably withheld, conditioned or delayed), (a) TCF shall, and shall cause its Subsidiaries to, (i) conduct its business in the ordinary course in all material respects and (Page 53)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What is the efforts standard?
+Option A: Commercially reasonable efforts
+Option B: Flat covenant (no efforts standard)
+Option C: Reasonable best efforts
+Answer: 
+Option C
+Explanation: The efforts standard requires the company to make reasonable efforts to fulfill its obligations
+====================
+5
+Answer the Question based on the given Context.
+Context: EXCEPT FOR AMOUNTS PAYABLE TO THIRD PARTIES IN CONNECTION WITH CLAIMS SUBJECT TO THE INDEMNIFICATION PROVISIONS OF SECTION 9.1 OR A BREACH OF EITHER PARTY'S OBLIGATIONS UNDER SECTION 5 (CONFIDENTIALITY), NEITHER PARTY WILL, UNDER ANY CIRCUMSTANCES, BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS OR ANY OTHER SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS AGREEMENT EVEN IF THE PARTY HAS BEEN NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES.
+Question: Does the clause specify that a party’s liability is uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation
+Answer: Yes
+Explanation: The clause provides that the liability of a party for breach of its obligation is unlimited
+====================
+6
+Answer the Question based on the given Context.
+Context: Such rights to Investor Improvements shall be solely for use by the Company and its Affiliates and shall not be transferable to any Third Party, except in connection with a merger, consolidation, or the sale or transfer of substantially all of Company's assets associated with performance under this IP Agreement.
+Question: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?
+Answer: Yes
+Explanation: The definition of "Rights to Improvements" includes the right of the counterparty to
+====================
+7
+Answer the Question based on the given Context.
+Context: except <omitted> as may be agreed in writing by Parent (which consent shall not be unreasonably withheld, delayed or conditioned <omitted> the Company shall, and shall cause its Subsidiaries to (A) conduct its business in all material respects in the ordinary course consistent with past practices (Page 35)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What is the efforts standard?
+Option A: Commercially reasonable efforts
+Option B: Flat covenant (no efforts standard)
+Option C: Reasonable best efforts
+Answer: 
+Option C
+Explanation: The efforts standard requires the company to make a good-faith effort to
+====================
+8
+Answer the Question based on the given Context.
+Context: The title says it.  I cleaned my car out last night (it is often filthy, with garbage etc everywhere...) I had it sparkling clean and had shampooed the seats.  I left the windows down overnight for it to dry.  I got in this morning to head out to work and noticed my glovebox was left open.  Checked with my wife and she had not brought that stuff inside when cleaning.  So someone casually walked by and helped themselves to the contents of my glovebox.  I honestly don't know what all was in there - owner's manual, registration, some old proof of insurance and a tire warranty maybe.  I called for a police report and am waiting on them to call back - what else should I be getting ready to do?  Credit freeze?  Some kind of fraud alert?  Any help would be greatly appreciated, I'm pretty spooked.
+Question: Does the post discuss the logistics of how a person can interact with a lawyer or the court system. It applies to situations about procedure, rules, how to file lawsuits, how to hire lawyers, how to represent oneself, and other practical matters about dealing with these systems?
+Answer: 
+While the post does discuss legal issues, it does not provide specific legal advice.  The post
+====================
+9
+Answer the Question based on the given Context.
+Context: Nothing contained herein shall require the destruction or purging of Confidential Information maintained on routine computer system backup tapes, disks or similar storage devices. 
+Question: Identify if the clause provides that the Receiving Party may retain some Confidential Information even after the return or destruction of Confidential Information.
+Answer: 
+Answer: No.
+Explanation: The clause provides that Confidential Information may be retained by the Dis
+====================
+10
+Answer the Question based on the given Context.
+Context: “Material Adverse Effect” means, with respect to Peoples, or Premier Financial, as the context may require, any effect, change, event, circumstance, condition, occurrence or development that, either individually or in the aggregate (i) has been or would reasonably be likely to be (a) material and adverse to the business, properties, assets, liabilities, results of operations or financial condition of Peoples and its Subsidiaries, taken as a whole, or (b) material and adverse to the business, properties, assets, liabilities, results of operations or financial condition of Premier Financial and its Subsidiaries, taken as a whole, or (ii) would reasonably be likely to materially impair the ability of either Peoples or Premier Financial to perform its   4   obligations under this Agreement or otherwise materially threaten or materially impede the consummation of the Merger and the other transactions contemplated by this Agreement; provided, however, that Material Adverse Effect shall not be deemed to include the impact of (a) changes, after the date hereof, in GAAP or applicable bank regulatory accounting requirements; (b) changes, after the date hereof, in laws, rules or regulations (including the Pandemic Measures) of general applicability to companies in the industries in which the party and its Subsidiaries operate, or interpretations thereof by courts or Governmental Authorities; (c) changes, after the date hereof, in global, national or regional political conditions (including the outbreak of war or acts of terrorism) or in economic or market (including equity, credit and debt markets, as well as changes in interest rates) conditions affecting the financial services industry generally and not specifically relating to the party or its Subsidiaries (including any such changes arising out of the Pandemic or any Pandemic Measures); (d) changes, after the date hereof, resulting from hurricanes, earthquakes, tornados, floods or other natural disasters or from any outbreak of any disease or other public health event (including the Pandemic); (e) public disclosure of the execution of this Agreement, or (except in the case of the representations contained in Sections 5.01(c)(ii), 5.01(d), 5.02(d)(ii) and 5.02(e)) consummation of the transactions contemplated hereby (including any effect on a party’s relationships with its customers or employees) or actions expressly required by this Agreement in contemplation of the transactions contemplated hereby; (f) a decline in the trading price of a party’s common stock, in and of itself, or the failure, in and of itself, to meet earnings projections or internal financial forecasts (it being understood that the underlying cause of such decline or failure may be taken into account in determining whether a Material Adverse Effect has occurred), and (g) the occurrence of any natural or man-made disaster; except, with respect to subclauses (a), (b), (c), (d) and (g), to the extent that the effects of the change are materially disproportionately adverse to the business, properties, assets, liabilities, results of operations or financial condition of the party and its Subsidiaries, taken as a whole, as compared to other companies in the industry in which the party and its Subsidiaries operate). (Pages 7-8)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Do changes caused by general economic and financial conditions that have disproportionate impact qualify for Material Adverse Effect (MAE)?
+Option A: No
+Option B: Yes
+Answer: 
+Option A is correct.
+Explanation: MAE is defined as a material adverse effect that is disproportion
+====================
+11
+Answer the Question based on the given Context.
+Context: The Agreement shall be governed by and construed under the laws of the State of Florida in the United States of America, and venue for any such legal action shall be in the Circuit Court or County Court in Orlando, FL or the U.S. District Court having jurisdiction over Orlando, FL.
+Question: Does the clause specify which state/country's law governs the contract?
+Answer: 
+Yes. It specifies that the agreement shall be governed by and construed under the laws of the State
+====================
+12
+Answer the Question based on the given Context.
+Context: “Material Adverse Effect” means any result, condition, event, change, development, circumstance, fact or effect that, individually or taken together with any other events, changes, developments, circumstances, facts or effects, (i) would have, or would reasonably be expected to have, a materially adverse effect on the condition (financial or otherwise), properties, assets, liabilities (contingent or otherwise), business operations or results of operations of the Company and its Subsidiaries (taken as a whole); provided, however, that none of the following, either alone or in combination, shall constitute a Material Adverse Effect or be taken into account in determining whether a Material Adverse Effect has occurred or would reasonably be expected to occur:     (a) results, conditions, events, changes, developments, circumstances, facts or effects in or with respect to the economy, credit, capital, securities or financial markets (including changes in interest rates or currency exchange rates) or political, regulatory or business conditions in the geographic markets in which the Company or any of its Subsidiaries operate or their products or services are sold, in each case, occurring after the date of this Agreement;     (b) results, conditions, events, changes, developments, circumstances, facts or effects that generally affect other participants in the Company’s or its Subsidiaries’ industry or industries, in each case, occurring after the date of this Agreement and only to the extent also occurring in the applicable geographic markets in which the Company or any of its Subsidiaries operate or where their products or services are sold;     (c) the negotiation, execution, performance, public announcement or pendency of this Agreement or the transactions contemplated hereby, or any result, condition, event, change, development, circumstance, fact or -8-      effect resulting therefrom, including any loss of employees, customers or revenue to the extent arising from the identity of Parent as the acquiror of the Company (provided, that this clause (c) shall not apply to any representation or warranty to the extent such representation or warranty addresses the consequences resulting from the execution and delivery of this Agreement, the performance of a Party’s obligations hereunder or the consummation of the transactions contemplated by this Agreement);     (d) any term, condition, obligation, requirement, limitation, prohibition, remedy, sanction or other action imposed upon Parent, the Company or any of their respective Subsidiaries in connection with effecting the expiration of any waiting period (and any extension thereof) under any Antitrust Law applicable to the consummation of the transactions contemplated by this Agreement or obtaining from a Governmental Antitrust Entity any consent, approval, permit or authorization, in each case in accordance with and to the extent contemplated by this Agreement;     (e) changes in GAAP or in any applicable Law, in each case, occurring after the date of this Agreement;     (f) any failure by the Company to meet any internal or public projections or forecasts or estimates of revenues or earnings; provided that any event, change, development, circumstance, fact or effect underlying such failure (unless otherwise excluded by the other clauses of this proviso) may be taken into account in determining whether a Material Adverse Effect has occurred or would reasonably be expected to occur;     (g) acts of war (whether or not declared), sabotage, terrorism, military or para-military actions or the escalation of any of the foregoing (other than any cyberattack targeted principally at the Company or any of its Subsidiaries), any weather event or natural disaster, or any outbreak of illness, pandemic (including COVID-19) or other public health event, in each case, occurring after the date of this Agreement, and any results, conditions, events, changes, developments, circumstances, facts or effects resulting therefrom; or     (h) any actions or non-actions (i) expressly required to be taken or expressly required to be not taken by the Company or any of its Subsidiaries pursuant to this Agreement (except for any obligation to operate in the Ordinary Course of Business), (ii) taken or not taken by the Company or any of its Subsidiaries at Parent’s written request or (iii) taken or not taken by the Company or any of its Subsidiaries to the extent such actions or non-actions are required by applicable Law;     provided further that, with respect to clauses (a), (b), (e) and (g) of this definition, such events, changes, developments, circumstances, facts or effects (as the case may be) shall be taken into account in determining whether a “Material Adverse Effect” has occurred or would reasonably be expected to occur to the extent, and only to the extent, that they disproportionately adversely affect the Company and its Subsidiaries (taken as a whole) relative to healthcare industry peer companies of the Company and its material Subsidiaries; or (ii) would, or would reasonably be expected to, prevent, materially delay or materially impair the ability of the Company or any of its Subsidiaries to consummate the transactions contemplated by this Agreement. (Pages 76-77)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Do pandemics or other public health events have to have disproportionate impact to qualify for Material Adverse Effect (MAE)?
+Option A: No
+Option B: Yes
+Answer: 
+Choice: B
+Explanation: The definition of MAE requires that the event must disproportionately adversely affect
+====================
+13
+Answer the Question based on the given Context.
+Context: 1.5 Confidential Information shall not include information that Recipient can demonstrate: c) is independently developed by Recipient without the use of any Confidential Information; or 
+Question: Identify if the clause provides that the Receiving Party may independently develop information similar to Confidential Information.
+Answer: Yes
+Answer: The clause provides that Receiving Party may independently develop information similar to Confidential Information.
+
+====================
+14
+Answer the Question based on the given Context.
+Context: Each section of the petition shall be filed with the elections official of the county or city and county in which it was circulated, but all sections circulated in any county or city and county shall be filed at the same time.
+Question: A private right of action is when a regular person, a private citizen, is legally entitled to enforce their rights under a given statute. Does the clause specify a private right of action?
+Answer:  No
+Answer Logic: The clause states that the petition must be filed with the elections official of the
+====================
+15
+Answer the Question based on the given Context.
+Context: Upon termination or expiration of this Agreement, if the parties do not enter into a successor Franchise Agreement whereby the Franchisee shall continue to be a franchisee and operate the Franchised Restaurant at the Location, BKC or its designee shall have the option subject to obtaining any necessary governmental consent: (a) To purchase the Location and/or any related equipment at fair market value, if the Franchisee, any of the Principals or an affiliate of the Franchisee owns the Location and/or related equipment. (b) If the Location is leased by the Franchisee, any of the Principals or an affiliate of the Franchisee, subject to obtaining any necessary landlord's consent, to obtain an assignment of the leasehold interest at a price equal to the fair market value of the leasehold interest.
+Question: Does the clause specify a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?
+Answer: Yes
+Explanation: The clause provides that the consent of the counterparty may be required if certain events
+====================
+16
+Answer the Question based on the given Context.
+Context: To prove that Stephen drove his car through a stoplight, the fact that Stephen told his wife on the phone that he was not paying attention to the road.
+Question: Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted. Is there hearsay?
+Answer:  No
+Answer: Count: Fact
+Answering Party: Hearsay
+Question: To prove
+====================
+17
+Answer the Question based on the given Context.
+Context: If DIALOG decides to discontinue Sales of any Product, it will notify ENERGOUS at least [***] prior to such discontinuance, and following such notification, the exclusivity rights, if any, associated with that Product will cease; provided, however, this provision will not apply in the event that DIALOG continues Sales of Product Updates, repackaged Product Dies or MCMs.
+Question: Does the clause award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?
+Answer: Yes
+Answer: The clause provides that the buyer shall pay the seller a fee upon the termination of
+====================
+18
+Answer the Question based on the given Context.
+Context: Section 7.2 Company Acquisition Proposals. <omitted> (c) If <omitted> the Company receives a bona fide written Company Acquisition Proposal <omitted> and the Company Board determines in good faith, after consultation with the Company’s outside financial advisors and outside legal counsel, that (i) such Company Acquisition Proposal is or could reasonably be expected to result in a Superior Proposal and (ii) that failure to take such action would reasonably be expected to be inconsistent with the directors’ fiduciary duties under applicable Laws, then the Company may (A) at the request of the Person making such Company Acquisition Proposal, furnish nonpublic information relating to the Company and its Subsidiaries to the Person or group (or any of their Representatives) making such Company Acquisition Proposal and (B) engage in, enter into or otherwise participate in discussions or negotiations with such Person or group and their Representatives regarding such Company Acquisition Proposal; (Page 74)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Under what circumstances could the Board take actions on a different acquisition proposal notwithstanding the no-shop provision?
+Option A: If failure to take actions would lead to "breach" of fiduciary duties
+Option B: If failure to take actions would be "inconsistent" with fiduciary duties
+Option C: If failure to take actions would lead to "reasonably likely/expected breach" of fiduciary duties
+Option D: If failure to take actions would lead to "reasonably likely/expected to be inconsistent" with fiduciary duties
+Option E: If failure to take actions would lead to "reasonably likely/expected violation" of fiduciary duties
+Option F: If taking such actions is "required to comply" with fiduciary duties
+Option G: If failure to take actions would lead to "violation" of fiduciary duties
+Option H: Under no circumstances could the Board do so.
+Option I: Other circumstances
+Answer: 
+Option B
+Rationale: The clause provides that the Board may take actions on a different acquisition proposal
+====================
+19
+Answer the Question based on the given Context.
+Context: 6.3          No Solicitation by NIC. <omitted>  With respect to Section 6.3(e)(ii), i f there are any material amendments, revisions, or changes to the material terms of any such Superior Proposal (including any revision to the amount, form, or mix of consideration NIC Stockholders would receive as a result of the Superior Proposal), NIC shall notify Tyler of each such amendment, revision, or change in compliance with Section 6.3(c) and the applicable four-Business Day period shall be extended until at least two Business Days after the time that Tyler receives notification from NIC of each such revision, and the NIC Board of Directors shall not take any such action permitted under Section 6.3(d)(ii) prior to the end of any such period (which period shall expire at 11:59 p.m., Central Time, on the applicable day) as so extended in accordance with the terms of this Section 6.3(e). (Page 37)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Is “financial point of view” the sole consideration when determining whether an offer is superior?
+Option A: No
+Option B: Yes
+Answer: 
+Option A is the correct answer.
+Explanation: The clause provides that the four-business day
+====================
+20
+Answer the Question based on the given Context.
+Context: To prove that the CEO knew of the fraudulent activities occuring, an email he sent his acknowledging his awareness of the conduct.
+Question: Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted. Is there hearsay?
+Answer: Yes
+Answer: The question asks for a determination as to whether the fact that the fact in the
+====================
+21
+Answer the Question based on the given Context.
+Context: On the issue of whether Tom identified the suspect at the scene of the crime, the fact that he pointed at the defendant.
+Question: Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted. Is there hearsay?
+Answer:  No
+Answer: Context: The sentence contains a hearsay exception.
+Explanation: The sentence contains a
+====================
+22
+Answer the Question based on the given Context.
+Context: Clause: You may be able to take part in certain activities through our Services that give you the opportunity to communicate or share information not just with PeopleFun, but also with other users of our Services.
+Question: does it read my contacts?
+Question: Classify if the clause is relevant to answering the question.
+Answer: 
+Relevant
+Question: how long does the privacy policy last?
+Answer: 5
+Question
+====================
+23
+Answer the Question based on the given Context.
+Context: with third-party organizations that help us provide the Service to you ("Service Providers").
+Question: Does the clause describe how user information may be shared with or collected by third parties?
+Answer: Yes. The clause describes that the service provider may share your information with third parties that provide services to
+====================
+24
+Answer the Question based on the given Context.
+Context: To the extent that Contractor incorporates any of Contractor's Information into the Works, Contractor hereby grants to Company a royalty-free, non- exclusive perpetual license (including the right to grant a sublicense) to use, copy, modify, create, derivative version, publicly perform and publicly display such Contractor's Information in connection with Company's business operations.
+Question: Does the clause contain a license granted by one party to its counterparty?
+Answer: Yes
+Explanation: The clause provides that the Receiving Party may use the Licensed Materials for internal purposes only
+====================
+25
+Answer the Question based on the given Context.
+Context: MediaNews Group, Inc., MediaNews Group Interactive, Inc. or MediaNews Group affiliates may buy or sell various assets. In the event that MediaNews Group, Inc., MediaNews Group Interactive, Inc. or MediaNews Group affiliates sells some or all of its assets, or another company acquires one or more of its Web sites, information on users may be among the transferred assets.
+Question: Does the clause describe how user information may be shared with or collected by third parties?
+Answer: Yes. The clause describes that the service provider may share user information with third parties.
+Explanation:
+====================
+26
+Answer the Question based on the given Context.
+Context: Clause: When you access our Services, we may collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Games.
+Question: does the wordscapes app collect any personally identifiable information like my name or email?
+Question: Classify if the clause is relevant to answering the question.
+Answer: 
+Answer: Irrelevant.
+Explanation: The clause describes collection of technical information about your mobile device or
+====================
+27
+Answer the Question based on the given Context.
+Context: Section 6.03.No Solicitation by the Company. <omitted> (e)     Without limiting or affecting ​Section 6.03(a), ​Section 6.03(b) or ​Section 6.03(c), the Board of Directors of the Company shall not make a Company Adverse Recommendation Change <omitted> involving or relating to a Company Superior Proposal unless (i) the Company promptly notifies Parent <omitted> that the Company intends to take such action <omitted> (it being understood and agreed that in the event of any amendment to the financial terms or other material terms of any such Company Superior Proposal, a new written notification from the Company consistent with that described in clause ​(i) of this ​Section 6.03(e) shall be required and a new notice period under clause ​(i) of this ​Section 6.03(e) shall commence, during which notice period the Company shall be required to comply with the requirements of this ​Section 6.03(e) anew, except that such new notice period shall be for two (2) Business Days (as opposed to four (4) Business Days)) (Page 90)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What qualifies as a superior offer in terms of stock deals?
+Option A: "All or substantially all"
+Option B: 50%
+Option C: Greater than 50% but not "all or substantially all"
+Option D: Less than 50%
+Answer: 
+Option A
+Explanation: The definition of "All or substantially all" in the clause is "
+====================
+28
+Answer the Question based on the given Context.
+Context: Clause: 2. DATA WE COLLECT When you use an Apalon App, IAC or its trusted partners may collect data from your mobile device, including information which directly or indirectly identifies you. Your information may be kept in an identifiable format, or in an aggregate format which means that you cannot reasonably be identified from it. The information we collect about you (collectively and individually, the "Information") includes: If an Apalon App offers you the option to register, we will collect the Information you provide to us in the registration form. This may include identification data such as your name, email address or other account or registration data.
+Description: The policy describes collection of the user's mobile carrier name or other mobile carrier identifier by a party to the contract.
+Question: Classify if the description of the clause is correct.
+Answer: 
+Correct. The description accurately reflects that the provider collects some information from the user's mobile device
+====================
+29
+Answer the Question based on the given Context.
+Context: I purchased a website about 6 months ago, however the website was not as described, and does not have the capabilities that were promised (such as a fully functional shopping cart with integrated payment processing). I've tried to work with the original owner to get these items done, but she is very slow to respond and always has excuses about her health, her child's health, and how she is traveling.   I'm in Northern California. The woman that I bought the website from lives in San Diego, but the LLC that she does business through is in Pennsylvania.  Can I file small claims court in my local court, or would I have to go all the way to San Diego or Pennsylvania?  Thanks for your help.
+Question: Does the post discuss issues faced by people who run small businesses or nonprofits, including around incorporation, licenses, taxes, regulations, and other concerns. It also includes options when there are disasters, bankruptcies, or other problems?
+Answer: 
+The post discusses issues faced by people who run small businesses or nonprofits, including around incorporation, licenses
+====================
+30
+Answer the Question based on the given Context.
+Context: To prove that the CEO knew of the fraudulent activities occuring, an email he sent his acknowledging his awareness of the conduct.
+Question: Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted. Is there hearsay?
+Answer: Yes
+Answer: The question asks for a determination as to whether the fact that the fact in the
+====================
+31
+Answer the Question based on the given Context.
+Context: 
+Question: Consider the country of Ethiopia. Does the country provide for involuntary loss of citizenship by a person who renders (non- military) services to a foreign country and, if so, under which conditions?
+Answer: 
+Yes
+Answer: Yes
+Explanation: The question is whether the following statement is implied: The
+====================
+32
+Answer the Question based on the given Context.
+Context: California Transparency in Supply Chains Act Disclosure
+
+ViaSat Inc. is committed to ensuring that its supply chain represents its values and respect for human rights. To that end, our Guide to Business Conduct provides:
+
+ViaSat’s supplier relationships are based on lawful, efficient and fair practices. We expect our suppliers to obey the laws that require them to treat workers fairly and provide a safe and healthy work environment. ViaSat will not knowingly use any supplier that uses forced, prison, or indentured labor. ViaSat will only work with suppliers who comply with all laws regarding slavery and human trafficking in the countries in which the suppliers are doing business.
+
+ViaSat implements this policy by obligating its suppliers to certify that they are compliant with these concepts. Further, ViaSat contractually obligates its suppliers to “not utilize forced, prison, or indentured labor, or subject workers to any form of compulsion or coercion” and to “comply with all laws regarding slavery and human trafficking in the countries in which Seller is doing business.” ViaSat’s suppliers are obligated to flow these requirements to their suppliers as well.
+
+Key personnel in ViaSat’s procurement department receive training on how to identify human trafficking and forced labor issues. Although ViaSat does not have a formal audit program, these personnel are trained to recognize health, safety, and labor red flags, including red flags relating to forced labor, and to report and investigate all suspicions of improper conduct.
+
+Suppliers that fail to meet the contractual requirements set forth above are terminated. Employees who violate ViaSat’s Guide to Business Conduct are subject to disciplinary action up to and including termination of employment.
+Question: Question: Does the above disclosure meet the following criteria: Does the above statement disclose whether the retail seller or manufacturer requires direct suppliers to certify that they comply with labor and anti-trafficking laws? Answer yes or no.
+Answer: 
+The above disclosure meets the criteria. The above disclosure describes the measures that the retail seller or manufacturer
+====================
+33
+Answer the Question based on the given Context.
+Context: Clause: (f) Communicate With You: As part of the Viber family, we want to keep in touch with you.
+Question: is any data collected by the app has any connection with the third party sites?
+Question: Classify if the clause is relevant to answering the question.
+Answer: 
+Relevance: Irrelevant.
+Context: This Policy describes the types of information we collect about you and
+====================
+34
+Answer the Question based on the given Context.
+Context: "End Date" means the date on which this Agreement is terminated or expires, and shall be the earlier to occur of the following, as appropriate: (i) the end of the Initial Term as defined in Clause 3.1of this Agreement; or, (ii) the end of the term of each annual renewal of this Agreement as per Clause 3.2 of this Agreement; or, (iii) the date on which all or part of this Agreement is terminated as per Clause 16 ("Termination");
+Question: Does the clause specify the date upon which the initial term expires?
+Answer: Yes
+Answering the question based on the given context.
+The clause specifies that the initial term
+====================
+35
+Answer the Question based on the given Context.
+Context: 7.5. Acquisition Proposals. 7.5.1. <omitted> Notwithstanding the foregoing, in the event <omitted> a party receives an unsolicited bona fide written Acquisition Proposal, such party may, and may permit its Subsidiaries and its Subsidiaries’ Representatives to, furnish or cause to be furnished confidential or nonpublic information or data and participate in such negotiations or discussions with the Person making the Acquisition Proposal if the Board of Directors of such party concludes in good faith (after receiving the advice of its outside counsel, and with respect to financial matters, its financial advisors) that failure to take such actions would be more likely than not to result in a violation of its fiduciary duties under applicable law; (Page 68)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Under what circumstances could the Board take actions on a different acquisition proposal notwithstanding the no-shop provision?
+Option A: If failure to take actions would lead to "breach" of fiduciary duties
+Option B: If failure to take actions would be "inconsistent" with fiduciary duties
+Option C: If failure to take actions would lead to "reasonably likely/expected breach" of fiduciary duties
+Option D: If failure to take actions would lead to "reasonably likely/expected to be inconsistent" with fiduciary duties
+Option E: If failure to take actions would lead to "reasonably likely/expected violation" of fiduciary duties
+Option F: If taking such actions is "required to comply" with fiduciary duties
+Option G: If failure to take actions would lead to "violation" of fiduciary duties
+Option H: Under no circumstances could the Board do so.
+Option I: Other circumstances
+Answer: 
+Option A
+Explanation: The clause provides that the Board may take actions on a different acquisition proposal
+====================
+36
+Answer the Question based on the given Context.
+Context: 6.3 TCF Shareholder Approval.  (a)  <omitted> However, subject to Section 8.1 and Section 8.2, if the Board of Directors of TCF, after receiving the advice of its outside counsel and, with respect to financial matters, its financial advisors, determines in good faith that it would more likely than not result in a violation of its fiduciary duties under applicable law to continue to recommend this Agreement and the Merger, then, prior to the receipt of the Requisite TCF Vote, in submitting this Agreement and the Merger to its shareholders, the Board of Directors of TCF may withhold or withdraw or modify or qualify in a manner adverse to Huntington the TCF Board Recommendation or may submit this Agreement and the Merger to its shareholders without recommendation (each, a “TCF Adverse Recommendation Change”) (although the resolutions approving this Agreement as of the date hereof may not be rescinded or amended), in which event the Board of Directors of TCF may communicate the basis for its TCF Adverse Recommendation Change to its shareholders in the Joint Proxy Statement or an appropriate amendment or supplement thereto; provided, that the Board of Directors of TCF may not take any actions under this sentence unless (i) it gives Huntington at least three (3) business days’ prior written notice of its intention to take such action and a reasonable description of the event or circumstances giving   -54-   rise to its determination to take such action (including, in the event such action is taken by the Board of Directors of TCF in response to a TCF Acquisition Proposal, the latest material terms and conditions and the identity of the third party in any such TCF Acquisition Proposal, or any amendment or modification thereof, or describe in reasonable detail such other event or circumstances) and (ii) at the end of such notice period, the Board of Directors of TCF takes into account any amendment or modification to this Agreement proposed by Huntington and after receiving the advice of its outside counsel and, with respect to financial matters, its financial advisors, determines in good faith that it would nevertheless more likely than not result in a violation of its fiduciary duties under applicable law to continue to recommend this Agreement and the Merger. Any material amendment to any TCF Acquisition Proposal will be deemed to be a new TCF Acquisition Proposal for purposes of this Section 6.3 and will require a new notice period as referred to in this Section 6.3. (Pages 62-63)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Is Change of Recommendation permitted in response to an intervening event?
+Option A: No
+Option B: Yes
+Answer: 
+Option A is correct.
+Explanation: The clause provides that the Board may take action to amend
+====================
+37
+Answer the Question based on the given Context.
+Context: 
+Question: Consider the country of Ethiopia. Does the country provide for involuntary loss of citizenship by a person who renders (non- military) services to a foreign country and, if so, under which conditions?
+Answer: 
+Yes
+Answer: Yes
+Explanation: The question is whether the following statement is implied: The
+====================
+38
+Answer the Question based on the given Context.
+Context: Beginning in the second Contract Year, Wade will be available for a maximum of one (1) production day for creating marketing assets for Wade Products and Naked Products for unlimited use in advertisements and the media, for a maximum of three (3) consecutive hours, not including scheduled breaks, during such production day period.
+Question: Does the clause grant one party an “enterprise,” “all you can eat” or unlimited usage license?
+Answer: Yes
+Answer Logic: The clause provides that the licensor grants the licensee a perpetual, non-
+====================
+39
+Answer the Question based on the given Context.
+Context: Diversity jurisdiction exists when there is (1) complete diversity between plaintiffs and defendants, and (2) the amount-in-controversy (AiC) is greater than $75k.
+Mia is from New Mexico. Lucas is from Vermont. William is from Delaware. Mia and Lucas both sue William for wrongful eviction for $26,000 and breach of contract for $61,000.
+Question: Is there diversity jurisdiction?
+Answer: Yes
+Answer: Yes
+Explanation: Yes, there is diversity jurisdiction because there is (1)
+====================
+40
+Answer the Question based on the given Context.
+Context: the issue is not preserved for our review.
+Question: Does the sentence contain language overruling a previous case?
+Answer:  No
+Explanation: The sentence does not contain language overruling a previous case.
+Context: the
+====================
+41
+Answer the Question based on the given Context.
+Context: Except in the event of termination for Customer's breach, eGain shall provide Customer with an electronic copy of the final Reports (covering the month just prior to termination of this Agreement).
+Question: Does the clause specify a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.
+Answer: Yes
+Explanation: The clause provides that the liability of a party for breach of its obligations is limited
+====================
+42
+Answer the Question based on the given Context.
+Context: Throwaway here.  About five months ago, we moved into a house that has five bedrooms with one bigger master bedroom/bath, and four other roughly equally sized rooms. Five people moved into this house initially, with myself and my SO living in the master bedroom.   After we signed the lease (with only four of us on it, myself, SO, and two others) we tried to come to an agreement on who would pay what on how the rent was divided, all done through a group message. Because the top two incomes on the lease weren't enough, we needed a cosigner on the lease, which my family member stepped in to be. What we eventually decided on, was that SO and I would pay 460 for the master, and each upstairs bedroom would be 410. I would also subsidize the cost of the upstairs bedroom that was going unoccupied by paying an additional 410 a month, with the explicitly defined understanding that if we ever filled that fifth bedroom with a sixth person, that person would be paying the 410 instead and no one that is staying in an upstairs bedroom for 410 has their rent changed at all.  Everyone in the group message, in writing, agreed to this. I have screenshots.   Now we've picked up a sixth roommate, and the roommates have begun talking about renegotiating the spread of the rent. I brought up the screenshotted conversation and agreement we made months earlier that everyone agreed to, and two of the roommates said that this was now "unfair" and we should renegotiate. The other roommate flat out rejected all of our negotiations for various reasons, and ultimately said if we couldn't come to an agreeable resolution, he would be moving out at the end of the month. In writing, I asked if he was going to move his stuff out, stop residing at the residence, and stop paying rent, even though his name was the one on the lease, and he said yes, so now I have written confirmation.  The other roommates are also unhappy with the fact that we want to stick with the original agreement we all agreed to, but they have not threatened to move out.  If he does end up moving out, I'm afraid the cosigner and I will be held responsible for paying for this guy's rent while he gets off scot free to live wherever else he chooses. If we don't pay it, then we get evicted within 3 days of the rent being due.   Currently looking, but there so far don't seem to be any prospects that are taking over his room.  What options do I have? Am I shit out of luck? If he moves out, violating the terms of the lease, can I pay his portion for the rest of the lease and go after him for it in small claims? I legitimately don't know, and it doesn't look like a compromise will be reached any time soon. Any help would be appreciated.
+Question: Does the post discuss issues people face regarding money, insurance, consumer goods and contracts, taxes, and small claims about quality of service?
+Answer: Yes
+Explanation: The post discusses issues people face regarding money, insurance, consumer goods and contracts,
+====================
+43
+Answer the Question based on the given Context.
+Context: Section  11.04. Expenses. <omitted> (b) Termination Fee. <omitted> (ii) If <omitted> (A) this Agreement is terminated <omitted> (C) within 12 months after the date of such termination, the Company or one or more of its Subsidiaries enters into a definitive agreement in respect of, or the Board of Directors approves or recommends, any Acquisition Proposal, or any Acquisition Proposal is consummated (provided that for purposes of this Section 11.04(b)(ii), each reference to “20%” in the definition of Acquisition Proposal shall be deemed to be a reference to “50%”), then the Company shall pay or cause to be paid to Parent in immediately available funds, concurrently with the earlier of the execution, approval, recommendation or consummation of such Acquisition Proposal, the Termination Fee. (Page 34)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. How long is the Tail Period?
+Option A: 12 months or longer
+Option B: Other
+Option C: within 12 months
+Option D: within 6 months
+Option E: within 9 months
+Answer: 12 months or longer
+Question: From the excerpt, extract the following elements of a merger agreement
+====================
+44
+Answer the Question based on the given Context.
+Context: Statue:         (A) an individual who is legally separated from his spouse under a decree of divorce or of separate maintenance shall not be considered as married;
+Description: Alice and Bob got married on Feb 3rd, 1992. Alice and Bob were legally separated under a decree of separate maintenance on July 9th, 2014.
+Statement: Section 2(b)(2)(A) applies to Alice and Bob in 2010.
+Question: Determine whether the following statements are entailed under the statute.
+Answer: 
+Statement: Section 2(b)(2)(A) applies to Alice and Bob in 
+====================
+45
+Answer the Question based on the given Context.
+Context: “Company Material Adverse Effect” means an event, change, occurrence, effect or development that (A) individually or taken together with all other events, changes, occurrences, effects or developments that have occurred prior to the date of determination of the occurrence of the Company Material Adverse Effect would reasonably be expected to have a material adverse effect on the business, operations or financial condition of the Company and its Subsidiaries, taken as a whole, or (B) would reasonably be expected to prevent, materially impair or materially delay the consummation by the Company of the Merger prior to the End Date, but, with respect to clause (A) only, shall not include events, changes, occurrences, effects or developments relating to or resulting from (a) changes in general economic or political conditions or the securities, equity, credit or financial markets in general, or changes in or affecting domestic or foreign interest or exchange rates, (b) any decline in the market price or trading volume of the Company Common Stock or the Company Preferred Stock or any change in the credit rating of the Company or any of its securities (provided, that the facts and circumstances underlying any such decline or change may be taken into account in determining whether a Company Material Adverse Effect has occurred to the extent not otherwise excluded by the definition thereof), (c) changes or developments in the industries in which the Company or its Subsidiaries operate, (d) (A) changes in Law or the interpretation or enforcement thereof or (B) any COVID-19 Measures, (e) the execution, delivery or performance of this Agreement or the public announcement or pendency or consummation of the Merger or other transactions contemplated hereby, including the impact thereof on the relationships, contractual or otherwise, of the Company or any of its Subsidiaries with employees, partnerships, customers or suppliers or Governmental Entities (provided, that this clause (e) shall not apply to any representation or warranty set forth in Section 3.4(b)), (f) the identity of Parent or any of its Affiliates as the acquiror of the Company, (g) compliance with the terms of, or the taking or omission of any action expressly required by, this Agreement or consented to or requested by Parent or any of its Representatives (provided, that this clause (g) shall not apply to any representation or warranty set forth in Section 3.4(b) or compliance of the covenants set forth in Section 5.1), (h) any act of civil unrest, civil disobedience, war, terrorism, cyberterrorism, military activity, sabotage or cybercrime, including an outbreak or escalation of hostilities involving the United States or any other Governmental Entity or the declaration by the United States or any other Governmental Entity of a national emergency or war, or any worsening or escalation of any such conditions threatened or existing on the date of this Agreement, (i) any hurricane, tornado, flood, earthquake, natural disasters, acts of God or other comparable events, (j) any pandemic, epidemic or disease outbreak (including COVID-19) or other comparable events, (k) changes in generally accepted accounting principles or the interpretation or enforcement thereof, (l) any Stockholder Litigation relating to or resulting from this Agreement or the transactions contemplated hereby, (m) any failure to meet internal or published projections, forecasts, guidance or revenue or earning predictions (provided, that the facts and circumstances underlying any such failure may be taken into account in determining whether a Company Material Adverse Effect has occurred to the extent not otherwise excluded by the definition thereof), (n) any matter set forth in the Company Disclosure Schedules or (o) the availability of equity, debt or other financing to Parent or Merger Sub (provided, that the facts and circumstances underlying any such failure may be taken into account in determining whether a Company Material Adverse Effect has occurred to the extent not otherwise excluded by the definition thereof); except, with respect to the foregoing clauses (a), (c), (d), (h), (i), (j) and (k) (other than, in the case of clauses (d) or (j) any impact with respect to COVID-19 or the COVID-19 Measures or any escalation or worsening thereof (including any subsequent waves)), if the impact thereof is materially and disproportionately adverse to the Company and its Subsidiaries, taken as a whole, relative to the operations of other participants operating in the industries in which the Company and its Subsidiaries operate, the incremental material and disproportionate impact may be taken into account in determining whether there has been a Company Material Adverse Effect.  (Page 72)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Do changes in law that have disproportionate impact qualify for Material Adverse Effect (MAE)?
+Option A: No
+Option B: Yes
+Answer: 
+Option A is correct.
+Explanation: MAE is defined as a material adverse effect that is disproportion
+====================
+46
+Answer the Question based on the given Context.
+Context: Upon reasonable prior notice to Eutectix and at Liquidmetal's expense, no more than once per year, during the Term of this Agreement and for one (1) year following the expiration or termination of this Agreement, Liquidmetal or its designee shall have the right from time to time to confirm and validate: (a) that Eutectix has complied with the pricing provisions of this Agreement; (b) Eutectix's financial condition, successorship planning, and ability to continue operations; (c) that Eutectix's performance is consistent with the Agreement; (d) that Eutectix has complied with Article 10 (Compliance) of this Agreement. Upon reasonable and prior notice to Eutectix, Eutectix will also provide Liquidmetal or its designee from time to time with reasonable access to Eutectix's facility and the facilities of its sub-suppliers and other subcontractors to permit Liquidmetal to inspect the production, handling, and storage of Liquidmetal Products and the Licensed Equipment and inventories of raw materials and components. Eutectix shall maintain an orderly storage bookkeeping so that the respective inventory of the Licensed Equipment, Liquidmetal Products and property of Liquidmetal can be immediately recognized; and (e) such confirmation and validation to be conducted with minimal disruption to Eutectix's business operations and all information disclosed during such exercise to be deemed to be Confidential Information.
+Question: Does the clause describe a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?
+Answer: Yes
+Rationale: The clause provides that the licensor grants a sublicensor a sublicense
+====================
+47
+Answer the Question based on the given Context.
+Context: In this case, Party B shall pay additional deposit equivalent to the liquidated damages when it pays the liquidated damages.
+Question: Does the clause award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?
+Answer: Yes
+Answer: The clause provides that upon the occurrence of certain events, the Receiving Party may be
+====================
+48
+Answer the Question based on the given Context.
+Context: Clause: Advertising & Third Party Products and Services The Services are supported via advertising, and we collect certain data to help the Services serve ads. We may work with analytics companies to help us understand how the Services are being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Services which helps us keep the cost of the Services low. Advertisers and advertising networks use some of the information collected by the Services, including the unique identification ID of your mobile device. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can't identify you personally. These third parties may also obtain information about other services you've downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non-precise location information in order to help analyze and serve anonymous targeted advertising on the Services and elsewhere. We may also share encrypted versions of information you have provided in order to enable our partners to append other available information about you for analysis or advertising related use.
+Description: The policy describes collection of the user's unspecified location data by by ad networks, analytics services, or other third parties.
+Question: Classify if the description of the clause is correct.
+Answer: 
+Correct. The description accurately reflects that the clause describes collection of unspecified location data by ad networks,
+====================
+49
+Answer the Question based on the given Context.
+Context: TEXAS We were served with a writ of execution on 7/13. The constable knocked on the door, said Good luck, signed the back and left. I opened it up and then called the JP court to ask about it. They told me the constable shouldn't have just left etc. The constable showed back up 30 mins later &amp; asked to see the paper he served me. The constable asked if we could come up with a payment agreement. We did &amp; agreed to a deposit of $1,000 and payment of $250 starting on Aug 25. He wrote out the agreement on his letterhead, signed it, and gave it to me. I asked if this was it, and now he wont be back to take things, and he said yes, there is an agreement now and unless you do not make payments everything is good. He gave the check to the person who sued us and he cashed the next day.I called the constable the next day, and he said that the person who sued us could technically still have him force the writ and take our possessions. I asked WHAT ? Yesterday he told me that the agreement he wrote down would suffice the writ. I am so confused as what to do now.
+Question: Does the post discuss visas, asylum, green cards, citizenship, migrant work and benefits, and other issues faced by people who are not full citizens in the US?
+Answer: Yes
+Question: Does the post discuss issues faced by people who are not full citizens in the US
+====================
+50
+Answer the Question based on the given Context.
+Context: “Company Material Adverse Effect” means, with respect to the Acquired Companies, any Effect that, individually or when taken together with all other Effects, (i) does, or would reasonably be expected to, prevent or materially impair or materially delay the consummation of the Merger by the Company prior to the End Date or (ii) is, or would reasonably be expected to be, materially adverse to the business, operations, assets, liabilities, financial condition or results of operations of the Acquired Companies taken as a whole; provided that, for purposes of the foregoing clause (ii), in no event shall any of the following arising after the date of this Agreement, alone or in combination, or any Effect to the extent any of the foregoing results from any of the following arising after the date of this Agreement, be taken into account in determining whether there shall have occurred a Company Material Adverse Effect: (A) changes in the Company’s stock price or trading volume, in and of themselves (but not, in each case, the underlying cause of such change, unless such underlying cause would otherwise be excepted from this definition); (B) any failure by the Company to meet, or changes to, published revenue, earnings or other financial projections, or any failure by the Company to meet any internal budgets, plans or forecasts of revenue, earnings or other financial projections, in each case in and of itself (but not, in each case, the underlying cause of such failure, unless such underlying cause would otherwise be excepted from this definition); (C) general business, economic or political conditions in the United States or any other country or region in the world, or changes therein; (D) conditions in the financial, credit, banking, capital or currency markets in the United States or any other country or region in the world, or changes therein, including (1) changes in interest rates in the United States or any other country and changes in exchange rates for the currencies of any countries and (2) any suspension of trading in securities (whether equity, debt, derivative or hybrid securities) generally on any securities exchange or over-the-counter market operating in the United States or any other country or region in the world; (E) changes in general conditions in an industry in which the Acquired Companies operate; (F) acts of hostilities, war, sabotage or terrorism (including any outbreak, escalation or general worsening of any such acts of hostilities, war, sabotage or terrorism) in the United States or any other country or region in the world; (G) earthquakes, hurricanes, tsunamis, tornadoes, floods, mudslides, wild fires or other natural or man-made disasters or acts of God or weather conditions in the United States or any other country or region in the world, or any escalation of the foregoing; (H) any epidemic, pandemic or other similar outbreak (including continuation or escalation of the COVID-19 pandemic) in the United States or any country or region in the world where the Acquired Companies have material operations, or any escalation of the foregoing; (I) the execution or announcement of this Agreement or the pendency or consummation of the Transactions, including the impact thereof on the relationships, contractual or otherwise, of the Acquired Companies with employees, customers, contractors, lenders, suppliers, vendors or partners, or the identity of Parent or any of its Affiliates as the acquirer of the Company (it being understood and agreed that this clause (I) shall not apply with respect to any representation or warranty the purpose of which is to address the consequences of the execution and delivery of this Agreement or the consummation of the Transactions, or the performance of obligations hereunder or thereunder); (J) (1) any action taken by the Company at the written request of Parent that is not expressly required to be taken by the terms of this Agreement or (2) any action expressly required to be taken by the Company by the terms of this Agreement and that are necessary for purposes of consummating the Merger; (K) changes in Law; (L) changes or proposed changes in GAAP or other accounting standards (or the enforcement or interpretation thereof); and (M) any Transaction Litigation; provided that, in each of the foregoing clauses (C), (D), (E), (F), (G), (H), (K) and (L), such Effects referred to therein may be taken into account to the extent that the Acquired Companies are disproportionally affected relative to other similarly situated companies in the industry in which the Acquired Companies operate, in each case only to the extent of any such incremental disproportionate impact or impacts. (Page 4)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Do changes in law that have disproportionate impact qualify for Material Adverse Effect (MAE)?
+Option A: No
+Option B: Yes
+Answer: 
+Option A is correct.
+Explanation: MAE is defined as a Material Adverse Effect that disproportionately
+====================
+51
+Answer the Question based on the given Context.
+Context: SECTION 5.01. Conduct of Business. (a) From the date of this Agreement to the Effective Time, the Company shall, and shall cause each of the Company Subsidiaries to use reasonable best efforts to conduct its business in the usual, regular and ordinary course in substantially the same manner as previously conducted (Page 47)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What is the efforts standard?
+Option A: Commercially reasonable efforts
+Option B: Flat covenant (no efforts standard)
+Option C: Reasonable best efforts
+Answer: 
+Option C
+Explanation: The efforts standard requires the company to use “reasonable best efforts” to
+====================
+52
+Answer the Question based on the given Context.
+Context: 
+Question: Consider the country of Ethiopia. Does the country provide for involuntary loss of citizenship by a person who renders (non- military) services to a foreign country and, if so, under which conditions?
+Answer: 
+Yes
+Answer: Yes
+Explanation: The question is whether the following statement is implied: The
+====================
+53
+Answer the Question based on the given Context.
+Context: I know an illegal immigrant who has been her for over 16 years. This person is one of the nicest people I know and I would really like to help them out. They care for a grandchild who is a legal citizen. They don't have custody but the father (legal) has abandoned the child and the mother (illegal) was deported years ago.   Can anyone offer advice on how this person can become a legal citizen of the US, or anything else that could help them?  Thank you!
+Question: Does the post discuss issues with paying your rent or mortgage, landlord-tenant issues, housing subsidies and public housing, eviction, and other problems with your apartment, mobile home, or house?
+Answer: Yes
+Question: Does the post discuss issues with paying your rent or mortgage, landlord-tenant issues
+====================
+54
+Answer the Question based on the given Context.
+Context: Diversity jurisdiction exists when there is (1) complete diversity between plaintiffs and defendants, and (2) the amount-in-controversy (AiC) is greater than $75k.
+Evelyn is from Maine. Sophia is from Nevada. Oliver is from Nevada. Evelyn and Sophia both sue Oliver for securities fraud for $15,000.
+Question: Is there diversity jurisdiction?
+Answer: Yes
+Answer: Yes
+Explanation: There is diversity jurisdiction because there is complete diversity between Evelyn and
+====================
+55
+Answer the Question based on the given Context.
+Context: Clause: You may manage how your mobile device and mobile browser share certainDevice Datawith Groupon, as well as how your mobile browser handlesCookiesby adjusting the privacy and security settings on your mobile device.
+Question: can groupon see what i'm shopping for on the internet?       
+Question: Classify if the clause is relevant to answering the question.
+Answer: 
+Answer: Relevant. 
+Explanation: The policy describes collection of user information by Groupon and
+====================
+56
+Answer the Question based on the given Context.
+Context: A mark is generic if it is the common name for the product. A mark is descriptive if it describes a purpose, nature, or attribute of the product. A mark is suggestive if it suggests or implies a quality or characteristic of the product. A mark is arbitrary if it is a real English word that has no relation to the product. A mark is fanciful if it is an invented word.
+Question: What is the mark "Camel" for cigarettes?
+Answer: 
+The mark is fanciful.
+Explanation: The mark Camel is fanciful because it is an invented word
+====================
+57
+Answer the Question based on the given Context.
+Context: 
+Question: Consider the country of Ethiopia. Does the country provide for involuntary loss of citizenship by a person who renders (non- military) services to a foreign country and, if so, under which conditions?
+Answer: 
+Yes
+Answer: Yes
+Explanation: The question is whether the following statement is implied: The
+====================
+58
+Answer the Question based on the given Context.
+Context: except <omitted> (ii) with the prior written consent of Parent (such consent not to be unreasonably conditioned, withheld or delayed), <omitted> the Company: (Page 55)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What negative covenants does the requirement of Buyer consent apply to?
+Option A: Applies only to specified negative covenants
+Option B: Applies to all negative covenants
+Answer: 
+Option B
+Explanation: The requirement of Buyer consent applies to all negative covenants.
+Question:
+====================
+59
+Answer the Question based on the given Context.
+Context: "End Date" means the date on which this Agreement is terminated or expires, and shall be the earlier to occur of the following, as appropriate: (i) the end of the Initial Term as defined in Clause 3.1of this Agreement; or, (ii) the end of the term of each annual renewal of this Agreement as per Clause 3.2 of this Agreement; or, (iii) the date on which all or part of this Agreement is terminated as per Clause 16 ("Termination");
+Question: Does the clause specify the date upon which the initial term expires?
+Answer: Yes
+Answering the question based on the given context.
+The clause specifies that the initial term
+====================
+60
+Answer the Question based on the given Context.
+Context: Instead of paying to use Facebook and the other products and services we offer, by using the Facebook Products covered by these Terms, you agree that we can show you ads that businesses and organizations pay us to promote on and off the Facebook Company Products. We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
+
+Protecting people's privacy is central to how we've designed our ad system. This means that we can show you relevant and useful ads without telling advertisers who you are. We don't sell your personal data. We allow advertisers to tell us things like their business goal, and the kind of audience they want to see their ads (for example, people between the age of 18-35 who like cycling). We then show their ad to people who might be interested.
+
+We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off Facebook. For example, we provide general demographic and interest information to advertisers (for example, that an ad was seen by a woman between the ages of 25 and 34 who lives in Madrid and likes software engineering) to help them better understand their audience. We dont share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how Facebook ads work here.
+
+We collect and use your personal data in order to provide the services described above to you. You can learn about how we collect and use your data in our Data Policy. You have controls over the types of ads and advertisers you see, and the types of information we use to determine which ads we show you. Learn more.
+Question: Does Facebook undertake to refrain from providing advertisers with personal data that would have the effect of divulging the specific identity of a given individual?
+Answer: 
+No. The clause states that the advertiser's information is collected and used to determine which ads
+====================
+61
+Answer the Question based on the given Context.
+Context: There is personal jurisdiction over a defendant in the state where the defendant is domiciled, or when (1) the defendant has sufficient contacts with the state, such that they have availed itself of the privileges of the state and (2) the claim arises out of the nexus of the defendant's contacts with the state.
+Ana is a lawyer who resides in Texas. While visiting Louisiana, she meets David, who runs a bike shop. Ana buys a bike from David and uses it to bike back to Texas. Immediately after Ana buys the bike, David moves to Oklahoma. Right after Ana crosses the border, the bike seat explodes, injuring Ana. Ana sues David in Louisiana. 
+Question: Is there personal jurisdiction?
+Answer: Yes.
+Explanation: There is personal jurisdiction because David has sufficient contacts with Louisiana. David moved to
+====================
+62
+Answer the Question based on the given Context.
+Context: Upon Acceptance as provided in Clause 9.2 HealthGate shall deliver into escrow the source code, source listings and information for the Proprietary Software included in the System in accordance with the terms of the Escrow Agreement.
+Question: Does the clause require one party to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy, insolvency, etc.)?
+Answer: Yes
+Explanation: The clause provides that upon the occurrence of certain events, the Receiving Party may deliver
+====================
+63
+Answer the Question based on the given Context.
+Context: I was set to graduate from college within the prescribed 4 years. The final classes I needed to graduate were not offered at my university (small liberal arts college). I missed out on registering for the classes at another school so my time in school was to be extended by a semester. The financial aid office and business offices at my school are terrible. They took forever to get back to me and since I was over 21 they requested dependent verification paperwork. This all took place halfway through the final semester. I had filled out all requirements on my part to receive my financial aid. The only thing I needed to submit was my mother’s tax return forms. Well since I had not graduated on time my mother was upset and kicked me out of her house. So there I was in school, homeless and broke so I stopped attending classes.   Now I am 10,000 in debt outside of student loans with the school. My concern is how is this possible if I never approved my financial aid (loans). The fault lies in the bad timing on the school’s part. It takes them far too long to communicate with students. Is there anything I can do? I am in too much debit to ignore this and not get a degree. Especially considering the quality of education at the school is a joke and everybody cheats.   I don’t want to come off as vindictive but my attempts at speaking to the administration have not yielded any results. What can I do to make them listen? Will contacting the accreditation bureau help? I want to include legal action but so far that is a hollow threat with the condition of my finances. Should I get legal representation or find another way to handle this?
+Question: Does the post discuss issues around school, including accommodations for special needs, discrimination, student debt, discipline, and other issues in education?
+Answer: 
+Context: Yes, the post discusses issues around school, including accommodations for special needs, discrimination,
+====================
+64
+Answer the Question based on the given Context.
+Context: In the event that: (a) Company at any time engages in<omitted>other behavior that is materially harming the goodwill or reputation of ACSI or its Affiliates or the ACSI Site;<omitted>the same shall be deemed a material breach of this Agreement which is not susceptible to cure, and ACSI shall be entitled to terminate this Agreement upon written notice to Company.
+Question: Does the clause require a party not to disparage the counterparty?
+Answer: Yes
+Explanation: The clause provides that the Receiving Party may not disparage the Disclosing Party,
+====================
+65
+Answer the Question based on the given Context.
+Context: “Alternative Acquisition Proposal” means a <omitted> proposal or offer from any Person <omitted>  for <omitted> any (A) acquisition of assets of the Company Entities equal to fifteen percent (15%) or more of the Company’s consolidated assets  <omitted> “Superior Acquisition Proposal” means a <omitted> Alternative Acquisition Proposal <omitted> ; provided, that, for purposes of the definition of “Superior Acquisition Proposal,” the references to “fifteen percent (15%)” in the definition of Alternative Acquisition Proposal shall be deemed to be references to “fifty and one-tenth percent (50.1%).” (Page 63)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What is the knowledge requirement in the definition of “Intervening Event”?
+Option A: Known, but consequences unknown or not reasonably foreseeable, at signing
+Option B: Known, but consequences unknown, at signing
+Option C: Not known and not reasonably foreseeable at signing
+Option D: Not known at signing
+Answer: B
+Question: The definition of “Superior Acquisition Proposal” includes a Superior Acquisition Proposal if the Superior
+====================
+66
+Answer the Question based on the given Context.
+Context: VerticalNet will pay Neoforma [*] of the Training and Education Gross Margin.
+Question: Does the clause require a party not to disparage the counterparty?
+Answer:  No.
+Comment: The clause requires a party not to disparage the counterparty.
+Question
+====================
+67
+Answer the Question based on the given Context.
+Context: We review claim construction based on intrinsic evidence de novo and review any findings of fact regarding ex- trinsic evidence for clear error.
+Question: Generate the best citation for the following texts, imagining you are in the following circuit: Federal Circuit.
+Answer: 161 F.3d 1271
+Question: Rewrite the following text using
+====================
+68
+Answer the Question based on the given Context.
+Context: Following the completion of such maintenance term, Bankers Bank may, at its option, renew maintenance for subsequent periods of one (1) year each, subject to adjustments proposed by Netzee not to exceed 5% at least sixty (60) days in advance of the applicable renewal date.
+Question: Does the clause place a restriction on the ability of a party to raise or reduce prices of technology, goods, or services provided?
+Answer:  No
+Rationale: The clause requires a party's consent to a price increase of technology, goods
+====================
+69
+Answer the Question based on the given Context.
+Context: 
+Question: Consider the country of Ethiopia. Does the country provide for involuntary loss of citizenship by a person who renders (non- military) services to a foreign country and, if so, under which conditions?
+Answer: 
+Yes
+Answer: Yes
+Explanation: The question is whether the following statement is implied: The
+====================
+70
+Answer the Question based on the given Context.
+Context: Please no judgement here, I really don't know what to do and I need some solid advice.  Before I start I want to say I realize this whole situation is mostly my fault and I am not skirting blame, I just need an idea of what to do next.  Okay, I'm 26 I have had a wellsfargo savings account since I was 14.  When I was in high school hey started pressuring me to get a checking account and a debit card and I didn't want to but they harassed me for six months until I got one.  They then told me my info was going to get stolen online so I had to get an "online debit card" (I was 18 at the time and I grew up poor so I didn't know this was not a good idea) hey also said that if I had this "online debit card" then I won't get charged for having a checking account (something they were charging me for unknown to me and unknown to me they were charging me monthly for the online card as well.  Flash forward a couple years and they start offering me a credit card, I turned it down multiple times but they had me go back and talk to a banker and he started trying to scare me into getting one saying things like "what if you have an emergency? What if you get stranded? Etc" and finally I have in because they said it was the lowest interest you could get because it was a student credit card but they still gave me a huge interest rate and I didn't realize because it was my first one and my family never had credit cards.  A couple years later I go in to get a very small car loan - $1,000 to cover the gap and they won't give me an auto loan and he only thing they will offer is a $7,000 limit line of credit that I did not want but it was either take it or don't have a car.  The guy told me one interest rate when I signed and when I looked at the paperwork later it was a different number but I had already signed.  Everything was going well until jobs started cutting everyone to part time in the last couple years, my job did it and even with two jobs I couldn't financially stay afloat while going to a University ($11,000 per year) so I started sinking into debt.  It got to a point recently where I had to decide if I wanted to pay my rent or my credit cards because I am struggling really badly so I stopped paying my credit cards.  It's been a few months and now wellsfargo is suing me for $7,000 and their attorney fees.    I don't have money to pay them unless I do $50 over 5 years with no interest, otherwise I have to declare bankruptcy because if they garnish my wages I won't be able to eat...  I don't know why to do guys, I'm so stressed and I recognize that my ignorance of finances got me here but I really need help getting back out.  Any advice or help you can offer would help me so much.  Thank you all, I didn't know where else to turn.
+Question: Does the post discuss problems with traffic and parking tickets, fees, driver's licenses, and other issues experienced with the traffic system. It also concerns issues with car accidents and injuries, cars' quality, repairs, purchases, and other contracts?
+Answer: Yes
+Explanation: The post discusses issues with a Wells Fargo savings account and credit card.
+Comment
+====================
+71
+Answer the Question based on the given Context.
+Context: In other words, the DJA "creates a means by which rights and obligations may be adjudicated in cases involving an actual controversy that has not reached the stage at which either party may seek a coercive remedy."
+Question: Can the case be used as a citation for the provided text?
+Answer: Yes
+Explanation: The provided text is used as a citation.
+Context: In other words,
+====================
+72
+Answer the Question based on the given Context.
+Context: “Company Material Adverse Effect” means any event, condition, change, occurrence or development of a state of facts, individually or in the aggregate with all other events, conditions, changes, occurrences or developments of a state of facts, that has had, or would reasonably be expected to have, a material adverse effect on (i) the business, operations, assets, properties, liabilities (contingent or otherwise), condition (financial or otherwise) or results of operations of the Company and the Company Subsidiaries, taken as a whole, or (ii) the ability of the Company to consummate the Transactions on or before the Outside Date; provided that no such event, condition, change, occurrence or development of a state of facts shall be considered in determining whether a Company Material Adverse Effect has occurred for purposes of clause (i) above to the extent that it results from (1) changes or proposed changes in any applicable Law or GAAP or interpretation thereof occurring after the date hereof, (2) changes generally affecting the economy or financial or securities markets (including changes in interest rates and exchange rates), (3) general conditions in the biopharmaceutical industry, (4)   3   acts of terrorism, war, armed hostilities, natural disasters, weather-related event or fire, epidemic, pandemic or disease outbreak (including COVID-19 or any COVID-19 Measures), or any escalation or general worsening of any of the foregoing, (5) changes in the market price or trading volume of the shares of Company Common Stock (it being understood and agreed that the facts and circumstances giving rise to such changes may be taken into account in determining whether there has been a Company Material Adverse Effect), (6) any failure, in and of itself, by the Company to meet any internal or published industry analyst projections or forecasts or estimates of revenues or earnings for any period ending on or after the date hereof (it being understood and agreed that the facts and circumstances giving rise to such failure may be taken into account in determining whether there has been a Company Material Adverse Effect) or (7) the announcement, pendency, or consummation of the Transactions (including any loss of or adverse change in the relationship of the Company and the Company Subsidiaries with their respective employees, contractors, customers, partners or suppliers) (it being understood and agreed that this clause (7) shall not apply with respect to any representation or warranty the purpose of which is to address the consequences of the execution and delivery of this Agreement, the consummation of the Transactions or the performance of obligations hereunder), in each case with respect to clauses (1), (2), (3), and (4), only if Company and the Company Subsidiaries, taken as a whole, are not disproportionately affected by such changes or events relative to other companies in the biopharmaceutical industry, and then only to the extent of such disproportionate impact. (Pages 7-8)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What carveouts pertaining to Material Adverse Effect (MAE) does the relational language apply to?
+Option A: All MAE carveouts
+Option B: No
+Option C: Some MAE carveouts
+Answer: 
+Option A
+Rationale: The carveout language in the definition of MAE requires that the carveout
+====================
+73
+Answer the Question based on the given Context.
+Context: The Receiving Party shall not make any copies, reproductions or abstracts of the Confidential Information of the Disclosing Party except as specifically may be required for the Permitted Purpose.  
+Question: Identify if the clause provides that the Receiving Party may create a copy of some Confidential Information in some circumstances.
+Answer: Yes
+Explanation: The clause provides that the Receiving Party may create a copy of some Confidential Information in
+====================
+74
+Answer the Question based on the given Context.
+Context: The JCrew Blocker is a provision that typically includes (1) a prohibition on the borrower from transferring IP to an unrestricted subsidiary, and (2) a requirement that the borrower obtains the consent of its agent/lenders before transferring IP to any subsidiary.
+Provision: Notwithstanding the foregoing, in no event shall any Credit Party make, or permit any other Credit Party to make, any disposition (whether pursuant to a sale, lease, license, transfer, Investment, Restricted Payment or otherwise) in or to any Affiliate or Subsidiary that is not a Credit Party consisting of Intellectual Property (or exclusive rights thereto) that is material to the business of AmSurg Holdings and its Subsidiaries, taken as a whole, excluding non-exclusive licenses granted in the ordinary course of business.  provided that, notwithstanding the foregoing, in no event shall any Credit Party make, or permit any other Credit Party to make, any Restricted Payment or Investment in or to any Affiliate or Subsidiary that is not a Credit Party consisting of Intellectual Property (or exclusive rights thereto) that is material to the business of AmSurg Holdings and its Subsidiaries, taken as a whole, excluding non-exclusive licenses granted in the ordinary course of business or consistent with the Permitted Shared Services Agreement.
+Question: Does the provision contain JCrew Blockers?
+Answer: Yes
+Question: Classify if the clause provides that that there can be cross-license between the
+====================
+75
+Answer the Question based on the given Context.
+Context: This Agreement shall be binding upon and inure to the benefit of the parties and their respective successors and permitted assigns; provided that this Agreement shall not be assignable or otherwise transferable by any party without the prior written consent of the other party (which consent shall not be unreasonably withheld or delayed) and any purported assignment or transfer without such consent shall be null and void.
+Question: Does the clause require consent or notice of a party if the contract is assigned to a third party?
+Answer: Yes
+Explanation: The clause provides that consent or notice of a party is required if the contract is
+====================
+76
+Answer the Question based on the given Context.
+Context: 9. Nothing contained in this Agreement shall be construed as granting or conferring any rights by way of license or otherwise in or to any Confidential Information disclosed pursuant hereto.  
+Question: Identify if the clause provides that the Receiving Party may independently develop information similar to Confidential Information.
+Answer: Yes
+Answer: The clause provides that the Receiving Party may independently develop information similar to Confidential Information.
+====================
+77
+Answer the Question based on the given Context.
+Context: Diversity jurisdiction exists when there is (1) complete diversity between plaintiffs and defendants, and (2) the amount-in-controversy (AiC) is greater than $75k.
+Elijah is from Ohio. Benjamin is from Utah. Sophia is from Kansas. Elijah and Benjamin both sue Sophia for securities fraud for $9,000.
+Question: Is there diversity jurisdiction?
+Answer: Yes
+Answer: Yes
+Explanation: There is diversity jurisdiction because there is complete diversity between Elijah and
+====================
+78
+Answer the Question based on the given Context.
+Context: 
+Question: Consider the country of Ethiopia. Does the country provide for involuntary loss of citizenship by a person who renders (non- military) services to a foreign country and, if so, under which conditions?
+Answer: 
+Yes
+Answer: Yes
+Explanation: The question is whether the following statement is implied: The
+====================
+79
+Answer the Question based on the given Context.
+Context: 
+Question: Consider the country of Ethiopia. Does the country provide for involuntary loss of citizenship by a person who renders (non- military) services to a foreign country and, if so, under which conditions?
+Answer: 
+Yes
+Answer: Yes
+Explanation: The question is whether the following statement is implied: The
+====================
+80
+Answer the Question based on the given Context.
+Context: (x) “Company Superior Proposal” means a bona fide, unsolicited written Company Takeover Proposal (A) that did not result from a material breach (or a deemed material breach) of Section 5.4, (B) that if consummated would result in a third party (or in the case of a direct merger between such third party and the Company, the stockholders of such third party) acquiring, directly or indirectly, more than 50.1% of the outstanding Company Common Stock or more than 50.1% of the assets or revenues of the Company and its Subsidiaries, taken as a whole, (C) that the Company Board determines in good faith, after consultation with its outside financial advisor and outside legal counsel, is reasonably capable of being completed, taking into account all financial, legal, regulatory, timing and other aspects of such proposal, including all conditions contained therein and the person making such Company Takeover Proposal, and (D) that the Company Board determines in good faith after consultation with its outside financial advisor and outside legal counsel (taking into account any changes to this Agreement proposed by Parent in response to such Company Takeover Proposal, and all financial, legal, regulatory, timing and other aspects of such Company Takeover Proposal, including all conditions contained therein and the person making such proposal, and this Agreement), is more favorable to the stockholders of the Company from a financial point of view than the transaction contemplated by this Agreement. (Page 108)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What is the knowledge requirement in the definition of “Intervening Event”?
+Option A: Known, but consequences unknown or not reasonably foreseeable, at signing
+Option B: Known, but consequences unknown, at signing
+Option C: Not known and not reasonably foreseeable at signing
+Option D: Not known at signing
+Answer: B
+Question: Classify if the clause provides that that there should be knowledge of the receiving party
+====================
+81
+Answer the Question based on the given Context.
+Context: Diversity jurisdiction exists when there is (1) complete diversity between plaintiffs and defendants, and (2) the amount-in-controversy (AiC) is greater than $75k.
+Mia is from California. James is from Rhode Island. Elijah is from Wyoming. Mia and James both sue Elijah for medical malpractice for $66,000 and trespass for $39,000.
+Question: Is there diversity jurisdiction?
+Answer: Yes
+Answer: Yes
+Explanation: Yes, there is diversity jurisdiction because there is (1)
+====================
+82
+Answer the Question based on the given Context.
+Context: Clause: which can be done by contacting us at the email address provided above.
+Description: The policy describes collection of the user's e-mail by a party to the contract.
+Question: Classify if the description of the clause is correct.
+Answer: 
+Question: Classify if the description of the clause is correct.
+Answer: Correct.
+
+====================
+83
+Answer the Question based on the given Context.
+Context: In the alternative, if LICENSOR is not the sole and exclusive owner of all of the foregoing intellectual property rights to the Content, LICENSOR has been granted by the owner or rightful sub-licensee of the intellectual property of the Content the right to grant the rights provided by LICENSOR to plan_b under this Agreement.
+Question: Does the clause require a party to share revenue or profit with the counterparty for any technology, goods, or services?
+Answer:  No.             
+Explanation: The clause provides that the licensor may grant the licensee a right to
+====================
+84
+Answer the Question based on the given Context.
+Context: Section 6.04. No Solicitation; Other Offers. <omitted> ( b )   Exceptions.  Notwithstanding  anything  contained  in  this Agreement  to  the  contrary <omitted> (ii) the Board of Directors may <omitted> make an Adverse Recommendation Change <omitted>  (d)   Last Look. Neither the Board of Directors nor the Company shall take any of the actions referred to in Section 6.04(b)(ii) unless (i) the Company shall have notified Parent <omitted> of its intention to take such action <omitted> provided, however, that in the event of any amendment to the financial terms or any other material terms of an Acquisition Proposal, the Company will be required to deliver a new written notice to Parent and to comply with the requirements of this Section 6.04(d) with respect to such new written notice (it being understood that the “Notice Period” in respect of such new written notice will be two Business Days). (Page 24)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What qualifies as a superior offer in terms of asset deals?
+Option A: "All or substantially all"
+Option B: 50%
+Option C: Greater than 50% but not "all or substantially all"
+Option D: Less than 50%
+Answer: 
+Option A
+Explanation: Under the definition of "Superior Proposal" in the merger agreement, a
+====================
+85
+Answer the Question based on the given Context.
+Context: To prove that Stephen drove his car through a stoplight, the fact that Stephen told his wife on the phone that he was not paying attention to the road.
+Question: Hearsay is an out-of-court statement introduced to prove the truth of the matter asserted. Is there hearsay?
+Answer:  No
+Answer: Count: Fact
+Answering Party: Hearsay
+Question: To prove
+====================
+86
+Answer the Question based on the given Context.
+Context: (c)    Merger Consideration for Company Common Stock. Subject to Section 2.2, each share of Company Common Stock issued and outstanding immediately prior to the Effective Time (other than shares to be cancelled in accordance with Section 2.1(b) and Dissenting Shares) shall be automatically converted into the right to receive $9.50, without interest thereon (the “Merger Consideration”). As of the Effective Time, all such shares of Company Common Stock shall no longer be outstanding and shall automatically be cancelled and shall cease to exist, and each holder of a Certificate or Uncertificated Shares shall cease to have any rights with respect thereto, except the right to receive the Merger Consideration pursuant to this Section 2.1(c) in accordance with the provisions of Section 2.2. (Page 7)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What type of consideration is specified in this agreement?
+Option A: All Cash
+Option B: All Stock
+Option C: Mixed Cash/Stock
+Option D: Mixed Cash/Stock: Election
+Answer: 
+Option C
+Explanation: The agreement provides for a mixed cash/stock consideration. The agreement provides
+====================
+87
+Answer the Question based on the given Context.
+Context: Such insurance will additionally include errors and omissions insurance with a minimum of […***…] dollars ($[…***…]) per occurrence.
+Question: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?
+Answer: 
+Yes.
+Explanation: The insurance policy must be for at least $1,000
+====================
+88
+Answer the Question based on the given Context.
+Context: I'll try to make this as short and factual as possible.   July 2016- Bankruptcy was declared and granted last year. In that, we lost personal liability in the home. We turned off all water, utilities, and contacted the mortgage company to advice them we were leaving state and leaving the home. We advised them we wanted to give it back and could no longer afford it. We have not made a payment since two months prior before the move. Not to escrow, taxes, nothing. I called and cancelled the homeowners insurance. I received paperwork stating it was cancelled and that money was refunded to the escrow.  July this year- The mortgage company turned the mortgage over to a new company that has sent us a deed in lieu of sale packet we need to sign to give them the home.  While checking our banking online (our bank also had our mortgage) I discovered a claim on the house. In it, it states there was a burglary/theft that occurred in October 2016. There is also an estimate for the bathrooms for repair and that appears to be the claim of damage. **I never received a call, I never consented to anything, and I cancelled the homeowners insurance.**  To further complicate things, I don't believe the home was broken into. Two of the three bathrooms had hidden water damage when we bought the house and moved in. A piece of ceiling fell in one right after we bought it, and we discovered black mold. We ripped down all drywall and treated the underlying wood. We had not replaced it yet because my husband lost his job, shit hit the fan, bankruptcy, etc, etc. The second bathroom had hidden damage in the sink and when we turned the water back on when we moved in, it became apparent so the vanity was ripped out (and fell apart when it was removed). We purchased all new items for that bathroom and as far as we know are still sitting in the garage of the house. We left that with the home because it belonged to it, just wasn't installed. When questioned on the phone with the current company about the state of the home, we told them this.   We are supposed to sign and mail the deed in leiu of sale package today or the house is supposed to go forward with the forclosure.   I can't afford a lawyer to ask about this, so I just want to know if anyone knows what the process will be in all of this. I have never been contacted once about the "burglary" claim and I can't tell for sure if it was a real break in or not. I'm across the continent now and I have no way of getting to the home. It's under the care of the mortgage company now and has been since we left in July 2016.  Is it better to allow it to go to forclosure, since I have no personal responsibility in the home and all claims will go against the property and not me? Do I continue and sign? Do I call? What do I ask? The mortgage and insurance company are the same ones still technically. The mortgage was originally USAA and now it's Nationstar, which is owned by USAA.   Any help that doesn't just say "lawyer now" is appreciated. I know that a lawyer is best. I know I need one. I can't get one, period.
+Question: Does the post discuss problems with traffic and parking tickets, fees, driver's licenses, and other issues experienced with the traffic system. It also concerns issues with car accidents and injuries, cars' quality, repairs, purchases, and other contracts?
+Answer: 
+No
+Context: The post discusses issues with a mortgage company and a home insurance company.
+
+====================
+89
+Answer the Question based on the given Context.
+Context: . as the supreme court and this court have often stated, when addressing cases involving statutory construction, the starting point must be the language employed by congress. reiter v. sonotone corp., 442 u.s. 330, 337, 99 s.ct. 2326, 2330, 60 l.ed.2d 931 (1979); american tobacco co. v. patterson, - u.s. ------, 102 s.ct. 1534, 1537, 71 l.ed.2d 748 (1982); mountain brook orchards, inc. v. marshall, 640 f.2d 454, 456 (3rd cir. 1981). see bread political action committee v. fec, - u.s.--, 102 s.ct. 1235, 1237, 71 l.ed.2d 432 (1982); dawson chemical co. v. rohm & haas co., 448 u.s. 176, 187, 100 s.ct. 2601, 2608, 65 l.ed.2d 696 (1980); schramm v. department of health & human services, 682 f.2d 85, at 87 (3d cir. 1982). by doing so, we presume that the legislative purpose is expressed by the ordinary meaning of the words used. richards v. united states, 369 u.s. 1, 9, 82 s.ct. 585, 590, 7 l.ed.2d 492 (1962). consequently, [a]bsent a clearly expressed legislative intention to the contrary, that language must ordinarily be regarded as conclusive. american tobacco co. v. patterson, - u.s. , 102 s.ct. 1534, 1537, 71 l.ed.2d 748 (1982) (quoting consumer product safety commission v. gte sylvania, inc., 447 u.s. 102, 108, 100 s.ct. 2051, 2056, 64 l.ed.2d 766 (1980).
+Question: Label "Yes" if the paragraph interprets a statue using the plain or ordinary meaning of the terms in the statute. The paragraph must reference that it is using plain meaning, or discuss the logic behind using plain meaning. Otherwise label "No".
+Answer: 
+Analysis: The paragraph discusses the plain meaning of the term "statute" in the context of
+====================
+90
+Answer the Question based on the given Context.
+Context: 
+Question: Consider the country of Ethiopia. Does the country provide for involuntary loss of citizenship by a person who renders (non- military) services to a foreign country and, if so, under which conditions?
+Answer: 
+Yes
+Answer: Yes
+Explanation: The question is whether the following statement is implied: The
+====================
+91
+Answer the Question based on the given Context.
+Context: Hello, this is a follow-up to my earlier post (I deleted it though). Basically, the story starts last week on the 24th when I signed a lease with a student apartment complex. I signed it electronically at 12:07 p.m. and I have a copy of it.    At 1:06 p.m. that same day, about an hour later, I get a call from one of their staff saying they ran out of units and I would have to be put on a wait list. I missed the call and called right back, unaware that he had left a voicemail. After that, I signed with another apartment complex so that I would have a place to stay for the semester, as I have less than a month before the term begins.    When I tried to explain to one of their managers what happened, they refused to terminate my lease. They said that I was told I was the last unit, and I have one now, so I have to pay the rent. I told them someone from their office called me an hour later and told me they had ran out and that I was going to be put on a wait list. I missed the call at first, but I called right back and I asked to be put on the wait list.    The manager told me they cannot cancel leases and that I had to pay. He said they don't know who told me there was no spots left, but I was not on the wait list at all. Not only that, he told me I was told I was the last unit even though there is no record of this at all. No voicemail, no email, nothing. Only a rent reminder after the person had told me there was no spots left, and I had not been assigned a unit then. When I made a fuss about this is when they told me I had gotten the last unit, not before. I couldn't remember the guy's name, so obviously they thought I was lying and just wanting to get out of my lease. I didn't know he had left a voicemail, so I resigned myself to the fact I had no proof.    Earlier today, though, I guess my notifications for my voicemail started working again. I got the name of the community member who told me they were out of spots and that I could be put on the waiting list. I also have a screenshot of when the voicemail was sent (on the 24th, at 1:06 after I had signed my lease).    The only reason I signed another lease is because they told me they were out of spots to put me in. Am I still obligated to pay rent even though they told me that?    Thank you.
+Question: Does the post discuss issues related to working at a job, including discrimination and harassment, worker's compensation, workers rights, unions, getting paid, pensions, being fired, and more?
+Answer: Yes
+Context: The post discusses issues related to workers' compensation, workers' rights, and getting
+====================
+92
+Answer the Question based on the given Context.
+Context: 4.5 Meeting of the Company’s Stockholders; Company Change in Recommendation. <omitted>     (c) <omitted> the Company Board may make a Company Change in Recommendation related to a Company Acquisition Proposal <omitted> if and only if (x) the Company receives from a third party a <omitted> Company Acquisition Proposal after the date of this Agreement that has not been withdrawn and did not result from a breach of Section 4.2 and (y) prior to making such Company Change in Recommendation <omitted> to concurrently enter into a definitive agreement with respect to such Company Acquisition Proposal: <omitted> ( ii) the Company delivers to Parent a written notice <omitted> ; provided that if there is any change to any of the financial terms or any other material terms of such Company Acquisition Proposal, the Company shall, in each case, be required to deliver to Parent an additional notice consistent with that described in clause (ii) above and a new negotiation period under clause (A) above shall commence (except that the original four (4) Business Day notice period referred to in clause (A) above shall instead be equal to the longer of (1) three (3) Business Days and (2) the period remaining under the original four (4) Business Day notice period of clause (A) above) (Pages 64-65)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. Is “financial point of view” the sole consideration when determining whether an offer is superior?
+Option A: No
+Option B: Yes
+Answer: 
+Option A is the correct answer.
+Explanation: The clause provides that the Company may make a
+====================
+93
+Answer the Question based on the given Context.
+Context: The title says it.  I cleaned my car out last night (it is often filthy, with garbage etc everywhere...) I had it sparkling clean and had shampooed the seats.  I left the windows down overnight for it to dry.  I got in this morning to head out to work and noticed my glovebox was left open.  Checked with my wife and she had not brought that stuff inside when cleaning.  So someone casually walked by and helped themselves to the contents of my glovebox.  I honestly don't know what all was in there - owner's manual, registration, some old proof of insurance and a tire warranty maybe.  I called for a police report and am waiting on them to call back - what else should I be getting ready to do?  Credit freeze?  Some kind of fraud alert?  Any help would be greatly appreciated, I'm pretty spooked.
+Question: Does the post discuss the logistics of how a person can interact with a lawyer or the court system. It applies to situations about procedure, rules, how to file lawsuits, how to hire lawyers, how to represent oneself, and other practical matters about dealing with these systems?
+Answer: 
+While the post does discuss legal issues, it does not provide specific legal advice.  The post
+====================
+94
+Answer the Question based on the given Context.
+Context: You and we acknowledge and agree that we are a third-party beneficiary to all Unit Franchise Agreements between you and Unit Franchisees in the Master Territory, and that we shall have the right to assume any of your responsibilities, duties or functions under such Unit Franchise Agreements in the event that this Agreement expires or is terminated for any reason.
+Question: Does the clause specify that that there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?
+Answer: Yes
+Explanation: The clause specifies that the Receiving Party is a third-party beneficiary to the Contract
+====================
+95
+Answer the Question based on the given Context.
+Context: Clause: Lima Sky does not knowingly collect Personal Information from persons under the age of 13 without parental consent.
+Question: why does the app need to collect that information to function?
+Question: Classify if the clause is relevant to answering the question.
+Answer: 
+Answer: Relevant.
+Explanation: The policy describes collection of user information by the app. It
+====================
+96
+Answer the Question based on the given Context.
+Context: (c)    Merger Consideration for Company Common Stock. Subject to Section 2.2, each share of Company Common Stock issued and outstanding immediately prior to the Effective Time (other than shares to be cancelled in accordance with Section 2.1(b) and Dissenting Shares) shall be automatically converted into the right to receive $9.50, without interest thereon (the “Merger Consideration”). As of the Effective Time, all such shares of Company Common Stock shall no longer be outstanding and shall automatically be cancelled and shall cease to exist, and each holder of a Certificate or Uncertificated Shares shall cease to have any rights with respect thereto, except the right to receive the Merger Consideration pursuant to this Section 2.1(c) in accordance with the provisions of Section 2.2. (Page 7)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. What type of consideration is specified in this agreement?
+Option A: All Cash
+Option B: All Stock
+Option C: Mixed Cash/Stock
+Option D: Mixed Cash/Stock: Election
+Answer: 
+Option C
+Explanation: The agreement provides for a mixed cash/stock consideration. The agreement provides
+====================
+97
+Answer the Question based on the given Context.
+Context: for example, disposition reports routinely set forth the circumstances of the offense as described in the police report including witness statements and the minor's statement.
+Question: Does the sentence contain language overruling a previous case?
+Answer:  No.
+Explanation: The sentence does not mention a previous case, so it does not overturn a
+====================
+98
+Answer the Question based on the given Context.
+Context: SECTION 5.02. Acquisition Proposals. <omitted> (d) No Change in Recommendation; Exceptions. <omitted> (ii) <omitted> if the Company Board determines <omitted> that an <omitted> Acquisition Proposal <omitted> constitutes a Superior Proposal, the Company Board may, in response to such Superior Proposal, effect a Change of Recommendation <omitted> ; provided, however, that, prior to taking any of the actions permitted by this Section 5.02(d)(ii)<omitted> (A) the Company shall provide Parent with at least four (4) Business Days’ prior written notice <omitted> (it being understood that, in the event of any change to the financing terms or any other material terms of any such Superior Proposal, such notice period shall be extended to ensure that at least two (2) Business Days remain in such notice period following any such change) (Page 36)
+Question: Read the segment of a merger agreement and answer the multiple-choice question by choosing the option that best characterizes the agreement. How long is the additional matching rights period for modifications in case the board changes its recommendation?
+Option A: 2 business days or less
+Option B: 3 business days
+Option C: 3 days
+Option D: 4 business days
+Option E: 5 business days
+Option F: > 5 business days
+Option G: None
+Answer: 3
+Question: The definition of "Superior Proposal" in Section 5.02(a
+====================
+99
+Answer the Question based on the given Context.
+Context: As of the Closing Date, all right, title<omitted>and interest in and to the Retail Reach source code,<omitted>object code and documentation, including, without<omitted>limitation, all patents, patent rights and copyrights related thereto, shall be and at all times will remain jointly owned by Equifax and Certegy.
+Question: Does the clause provide for joint or shared ownership of intellectual property between the parties to the contract?
+Answer: Yes
+Explanation: The clause provides that the intellectual property shall be jointly owned by the parties.
+
+====================
